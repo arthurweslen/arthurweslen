@@ -21,7 +21,7 @@
     <a href = "https://www.instagram.com/arthur.weslen/"><img src ="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
  
  
-  ![Snake animation](https://github.com//arthurweslen/arthurweslen/blob/output/github-contribution-grid-snake.svg)
+ <!-- ![Snake animation](https://github.com//arthurweslen/arthurweslen/blob/output/github-contribution-grid-snake.svg) -->
 </div>
 
  
