@@ -1,9 +1,8 @@
 ### Oi, sou Arthur e trabalho com Business Intelligence e Análise de dados 👋
 
-- 🌆 Atualmente trabalho no <b>cliente Petrobras</b>
+- 🌆 Atualmente trabalho no <b> banco Santander</b>
 - 💻 Especialista em: <b>Microsoft Power BI  (PowerQuery e DAX)</b>
-- 💻 Trabalho com <b>Microsoft Power Automate</b>
-- 💻 Entre outras ferramentas <i>(Sway, Pacote Office, Sharepoint, Primavera, PowerQuery)</i>
+- 💻 Trabalho com <b>Databricks</b>
 - 👨‍🎓 Estudando análise de dados com <b>Python</b> <i>(biblioteca Pandas, Numpy e Matplotlib)</i>
 
 <div align="center">
