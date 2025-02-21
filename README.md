@@ -1,9 +1,29 @@
-### Oi, sou Arthur e trabalho com Business Intelligence e Análise de dados 👋
+# 👋 Olá! Eu sou Arthur Weslen  
 
-- 🌆 Atualmente trabalho no <b> banco Santander</b>
-- 💻 Especialista em: <b>Microsoft Power BI  (PowerQuery e DAX)</b>
-- 💻 Trabalho com <b>Databricks</b>
-- 👨‍🎓 Estudando análise de dados com <b>Python</b> <i>(biblioteca Pandas, Numpy e Matplotlib)</i>
+Sou um profissional de **Business Intelligence e Análise de Dados**, apaixonado por transformar dados em insights estratégicos e soluções eficientes.  
+
+## 🚀 Especialidades  
+- 🔹 **Power BI** (DAX, Power Query, Modelagem de Dados)  
+- 🔹 **Microsoft Fabric** (Lakehouse, Notebooks, Pipelines)  
+- 🔹 **SQL & ETL** (Transformação e manipulação de dados)  
+- 🔹 **Python para Análise de Dados** (Pandas, NumPy, Matplotlib)  
+
+## 🎓 Certificações  
+- 📜 **PL-300** | Power BI Data Analyst Associate  
+- 📜 **DP-600** | Fabric Analytics Engineer Associate  
+- 📜 **ITIL V3** | Gerenciamento de Serviços de TI  
+
+## 🛠️ Ferramentas e Tecnologias  
+- 💡 Power BI, DAX, Power Query, Microsoft Fabric  
+- 💾 SQL Server, Databricks, Spark, PySpark  
+- 🐍 Python (Pandas, NumPy, Matplotlib)  
+- 📊 Modelagem de Dados e Visualização  
+
+## 🌍 Sobre mim  
+Sou um entusiasta de **dados e tecnologia**, sempre buscando novas formas de otimizar processos e criar soluções analíticas robustas. Compartilho minhas experiências e conhecimentos em **Power BI, DAX e Power Query** no meu [repositório](https://github.com/arthurweslen/PowerQuery_DAX).  
+
+📩 Vamos trocar ideias? Fique à vontade para conectar-se comigo!  
+
 
 <div align="center">
   <a href="https://github.com/arthurweslen/">
