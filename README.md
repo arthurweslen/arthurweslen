@@ -28,16 +28,16 @@ Compartilho minhas experiências e conhecimentos em **Power BI, DAX e Power Quer
 ---
 
 <div align="center">
-  <a href="https://github.com/arthurweslen/">
-    <img height="180em" width="400em"
-      src="https://github-readme-stats-4ho353oqz-arthurweslens-projects.vercel.app/api?username=arthurweslen&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
-    <img height="180em" width="400em"
-      src="https://github-readme-stats-4ho353oqz-arthurweslens-projects.vercel.app/api/top-langs/?username=arthurweslen&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
+### 📊 Minhas estatísticas
+
+<img height="180em" src="https://github-readme-stats-gold-one-59.vercel.app/api?username=arthurweslen&theme=dracula&show_icons=true" />
+
+<img height="180em" src="https://github-readme-stats-gold-one-59.vercel.app/api/top-langs/?username=arthurweslen&layout=compact&theme=dracula" />
+
 </div>
 
-<br>
+---
 
 <div align="center">
   <a href="mailto:arthurwesley11@gmail.com">
