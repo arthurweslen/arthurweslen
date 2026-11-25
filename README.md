@@ -31,7 +31,7 @@ Compartilho minhas experiências e conhecimentos em **Power BI, DAX e Power Quer
 
 ### 📊 Minhas estatísticas
 
-<img height="180em" src="https://github-readme-stats-gold-one-59.vercel.app/api?username=arthurweslen&theme=dracula&show_icons=true" />
+<img height="180em" alt="Estatísticas de Arthur no GitHub" src="https://github-readme-stats.vercel.app/api?username=arthurweslen&amp;theme=dracula&amp;show_icons=true" />
 
 <img height="180em" src="https://github-readme-stats-gold-one-59.vercel.app/api/top-langs/?username=arthurweslen&layout=compact&theme=dracula" />
 
